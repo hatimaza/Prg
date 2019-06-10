@@ -201,7 +201,7 @@
       <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="270" />
     <option name="width" value="1750" />
@@ -281,23 +281,23 @@
       <workItem from="1559123986029" duration="3797000" />
       <workItem from="1559296497208" duration="2827000" />
       <workItem from="1559561255102" duration="1955000" />
-      <workItem from="1560155231635" duration="3912000" />
+      <workItem from="1560155231635" duration="4159000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39476000" />
+    <option name="totallyTimeSpent" value="39723000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5045573" side_tool="true" visible="true" weight="0.37756497" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5026042" side_tool="true" visible="true" weight="0.37756497" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49544272" visible="true" weight="0.37756497" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49739584" visible="true" weight="0.37756497" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17252605" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
